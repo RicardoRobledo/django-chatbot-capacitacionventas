@@ -1,0 +1,11 @@
+##### contexto #####
+
+//documentos:
+{context}
+
+//nombre del empleado:
+{name}
+
+##### hacer #####
+Necesito revisar los documentos del contexto, y contestar esta pregunta '{question}' en base a ellos. finalmente le
+devolveré la respuesta al vendedor
